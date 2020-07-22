@@ -1,0 +1,245 @@
+{
+  "status": "ok",
+  "totalResults": 75270,
+  "articles": [{
+    "source": {
+      "id": null,
+      "name": "Ynetnews"
+    },
+    "author": "Ben-Dror Yemini",
+    "title": "Fighting coronavirus through a fog of uncertainty",
+    "description": "Opinion: In the current situation, it is alright to voice our criticism and demand information, but we cannot put the government on the front lines of the coronavirus war and question its authority at the same time",
+    "url": "https://www.ynetnews.com/article/HJ2NCB4gD",
+    "urlToImage": "https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/picserver5/crop_images/2020/07/21/10116133/10116133_0_0_1280_885_large.jpg",
+    "publishedAt": "2020-07-21T20:39:58Z",
+    "content": "We must admit that Israel has never before seen such a period of great uncertainty. Ask 10 doctors about the coronavirus pandemic, and you will likely get 10 different opinions.\r\nHow does one catch i… [+3802 chars]"
+  }, {
+    "source": {
+      "id": "rte",
+      "name": "RTE"
+    },
+    "author": "RTÉ Sport",
+    "title": "Pep turns an eye towards Real after stinging Hornets",
+    "description": "Pep Guardiola was pleased to see Manchester City take a step towards their best form with a 4-0 win over Watford ahead of next month's Champions League tie with Real Madrid.",
+    "url": "https://www.rte.ie/sport/soccer/2020/0721/1154743-pep-turns-an-eye-towards-real-after-stinging-hornets/",
+    "urlToImage": "https://img.rasset.ie/0014da3a-1600.jpg",
+    "publishedAt": "2020-07-21T20:39:48Z",
+    "content": "Pep Guardiola was pleased to see Manchester City take a step towards their best form with a 4-0 win over Watford ahead of next month's Champions League tie with Real Madrid.\r\nA first-half brace from … [+2127 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "seattlepi.com"
+    },
+    "author": "",
+    "title": "Prosecutors: Company, CEO tried to export chemicals to China",
+    "description": "PROVIDENCE, R.I. (AP) - A California company and its CEO are facing conspiracy, money laundering and other federal charges for allegedly attempting to illegally export chemicals to a Chinese company with military ties, federal prosecutors said. \n U.S. Attorne…",
+    "url": "https://www.seattlepi.com/news/article/Prosecutors-Company-CEO-tried-to-export-15423966.php",
+    "urlToImage": "https://www.seattlepi.com/img/pages/article/opengraph_default.png",
+    "publishedAt": "2020-07-21T20:39:13Z",
+    "content": "PROVIDENCE, R.I. (AP) — A California company and its CEO are facing conspiracy, money laundering and other federal charges for allegedly attempting to illegally export chemicals to a Chinese company … [+1259 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "seattlepi.com"
+    },
+    "author": "",
+    "title": "Hibbett, Coca-Cola rise; eBay, Acadia fall",
+    "description": "NEW YORK (AP) - Stocks that moved heavily or traded substantially on Tuesday: \n International Business Machines Corp., down 31 cents to $126.06. \n The technology company reported a surge in revenue from cloud computing and beat Wall Street's second-quarter pr…",
+    "url": "https://www.seattlepi.com/business/article/Hibbett-Coca-Cola-rise-eBay-Acadia-fall-15423924.php",
+    "urlToImage": "https://www.seattlepi.com/img/pages/article/opengraph_default.png",
+    "publishedAt": "2020-07-21T20:39:13Z",
+    "content": "NEW YORK (AP) — Stocks that moved heavily or traded substantially on Tuesday:\r\nInternational Business Machines Corp., down 31 cents to $126.06.\r\nThe technology company reported a surge in revenue fro… [+1096 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Stackoverflow.com"
+    },
+    "author": "Stack Overflow",
+    "title": "Django REST Framework update date Created",
+    "description": "i have a blog app which is connected to a Django REST Framework API. I am able to create, delete and update posts using API calls but im struggeling with updating the time created field. What i want to do is to update the time with the current time when the p…",
+    "url": "https://stackoverflow.com/questions/63022571/django-rest-framework-update-date-created",
+    "urlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "publishedAt": "2020-07-21T20:38:47Z",
+    "content": "i have a blog app which is connected to a Django REST Framework API. I am able to create, delete and update posts using API calls but im struggeling with updating the time created field. What i want … [+880 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Stackoverflow.com"
+    },
+    "author": "Stack Overflow",
+    "title": "How to add a pre-loader to a django web site?",
+    "description": "i had made a web app in django that takes some input through form,\nperforms some long computation in django views, store the results in context and renders the results in other template.In between taking submitting input and displaying result i want to displa…",
+    "url": "https://stackoverflow.com/questions/63022615/how-to-add-a-pre-loader-to-a-django-web-site",
+    "urlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "publishedAt": "2020-07-21T20:38:47Z",
+    "content": "i had made a web app in django that takes some input through form,\r\nperforms some long computation in django views, store the results in context and renders the results in other template.In between t… [+219 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Stackoverflow.com"
+    },
+    "author": "Stack Overflow",
+    "title": "Django : Can I use CreateView to create a User object where User is just Django's built in User model?",
+    "description": "I am trying to create a simple user login system where a user gets to sign up on one page and then use those credentials to login to the website on another page. Here's my sign-up and login views:\nclass SignupView(CreateView):\n model = User\n form_class = Sign…",
+    "url": "https://stackoverflow.com/questions/63022695/django-can-i-use-createview-to-create-a-user-object-where-user-is-just-django",
+    "urlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+    "publishedAt": "2020-07-21T20:38:47Z",
+    "content": "I am trying to create a simple user login system where a user gets to sign up on one page and then use those credentials to login to the website on another page. Here's my sign-up and login views:\r\nc… [+606 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "NBCSports.com"
+    },
+    "author": "Nicholas Mendola",
+    "title": "One man left: The Vancouver Whitecaps goalkeeper emergency",
+    "description": "The Vancouver Whitecaps brought three goalkeepers into the bubble but are down to just one after Maxime Crepeau broke his thumb Tuesday.",
+    "url": "https://soccer.nbcsports.com/2020/07/21/one-man-left-the-vancouver-whitecaps-goalkeeper-emergency/",
+    "urlToImage": "https://soccer.nbcsports.com/wp-content/uploads/sites/14/2020/07/GettyImages-1257136399-e1595363218363.jpg",
+    "publishedAt": "2020-07-21T20:38:46Z",
+    "content": "The league with the most matches left on its domestic calendar for the 2019-20 season is Serie A, and there’s plenty to like about the race for top four placement and the capocannoniere.\r\nBut is the … [+5738 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "BGR"
+    },
+    "author": "Mike Wehner",
+    "title": "New material called Proteus can’t be cut with tools",
+    "description": "<ul>\n <li>Researchers have developed a new material that is extremely resilient to cutting tools. </li>\n <li>The material, called Proteus, is a combination of aluminum and ceramic spheres. </li>\n <li>Proteus is durable against cutting wheels, drill bits, and …",
+    "url": "https://bgr.com/2020/07/21/uncuttable-material-proteus-cutting-tools/",
+    "urlToImage": "https://boygeniusreport.files.wordpress.com/2020/07/screen-shot-2020-07-21-at-12.56.49-pm.jpg?quality=70&strip=all",
+    "publishedAt": "2020-07-21T20:38:20Z",
+    "content": "<ul><li>Researchers have developed a new material that is extremely resilient to cutting tools. </li><li>The material, called Proteus, is a combination of aluminum and ceramic spheres. </li><li>Prote… [+2750 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Noaa.gov"
+    },
+    "author": "nhcwebmaster@noaa.gov (NHC Webmaster)",
+    "title": "Tropical Depression Seven Graphics",
+    "description": "5-Day Uncertainty Track last updated Tue, 21 Jul 2020 20:38:17 GMT\n\n \nWind Speed Probabilities last updated Tue, 21 Jul 2020 20:38:18 GMT",
+    "url": "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203817.shtml?cone",
+    "urlToImage": null,
+    "publishedAt": "2020-07-21T20:38:17Z",
+    "content": "Coastal Watches/Warnings and Forecast Cone for Storm Center\r\n* If the storm is forecast to dissipate within 3 days, the \"Full Forecast\" and \"3 day\" graphic will be identical\r\nClick Here for a 5-day C… [+2926 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Gizchina.com"
+    },
+    "author": "Marco Lancaster",
+    "title": "Huawei Enjoy 20s leaked in the wild",
+    "description": "Huawei is gearing up to launch a new smartphone for its Enjoy series in the form of Huawei Enjoy 20s. This smartphone appeared on Chinese ...\nThe post Huawei Enjoy 20s leaked in the wild appeared first on Gizchina.com.",
+    "url": "https://www.gizchina.com/2020/07/21/huawei-enjoy-20s-leaked-in-the-wild/",
+    "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2020/07/huawei-enjoys-302.jpg",
+    "publishedAt": "2020-07-21T20:38:00Z",
+    "content": "Huawei is gearing up to launch a new smartphone for its Enjoy series in the form of Huawei Enjoy 20s. This smartphone appeared on Chinese TENAA last week. The listing included the full specs sheet as… [+2264 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Rlsbb.ru"
+    },
+    "author": "Damon",
+    "title": "The Badger Game 2014 BRRip XviD MP3-RBG",
+    "description": "Plot: A chronic philanderer falls victim to an extortion scheme when he is abducted by four masked strangers demanding retribution for his sins. Genre: Crime | Drama | Thriller IMDB Rating Live: IMDB Rating: 5.4/10 From 670 Users Rotten Rating: N/A Metacritic…",
+    "url": "http://rlsbb.ru/the-badger-game-2014-brrip-xvid-mp3-xvid/",
+    "urlToImage": null,
+    "publishedAt": "2020-07-21T20:37:46Z",
+    "content": "Plot: A chronic philanderer falls victim to an extortion scheme when he is abducted by four masked strangers demanding retribution for his sins.\r\nGenre: Crime | Drama | ThrillerIMDB Rating Live:IMDB … [+1204 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Livejournal.com"
+    },
+    "author": "just444",
+    "title": "Little Plot Holes In Teen Dramas That Make No Sense",
+    "description": "20 Reeeeally Frustrating Teen Drama Inconsistencies https://t.co/kOwRaD9n22\r\n— BuzzFeed (@BuzzFeed) July 21, 2020 sourceBuzzfeed is having some teen show month going on, with a ton of random lists. so perfect for ontd.5/ 20 Little Plot Holes In Teen Dramas Th…",
+    "url": "https://ohnotheydidnt.livejournal.com/118466962.html",
+    "urlToImage": "https://l-files.livejournal.net/og_image/3616053/462761?v=1595363844",
+    "publishedAt": "2020-07-21T20:37:22Z",
+    "content": "20 Reeeeally Frustrating Teen Drama Inconsistencies https://t.co/kOwRaD9n22\r\n— BuzzFeed (@BuzzFeed) July 21, 2020\r\nsourceBuzzfeed is having some teen show month going on, with a ton of random lists. … [+453 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Noaa.gov"
+    },
+    "author": "nhcwebmaster@noaa.gov (NHC Webmaster)",
+    "title": "Summary - Tropical Storm Douglas (EP3/EP082020)",
+    "description": "...DOUGLAS EXPECTED TO BECOME A HURRICANE LATER TODAY OR TONIGHT...\n As of 11:00 AM HST Tue Jul 21\n the center of Douglas was located near 12.1, -125.4\n with movement WSW at 15 mph.\n The minimum central pressure was 998 mb\n with maximum sustained winds of abo…",
+    "url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/212037.shtml",
+    "urlToImage": null,
+    "publishedAt": "2020-07-21T20:37:18Z",
+    "content": null
+  }, {
+    "source": {
+      "id": null,
+      "name": "SlashGear"
+    },
+    "author": "Vincent Nguyen",
+    "title": "2021 Kia Seltos Review – Small crossover has big ambitions",
+    "description": "The apple doesn’t fall far from the tree, and in this case, I’m referring to the 2021 Kia Seltos. You may know that ‘Seltos’ derives from ‘Celtos,’ the son of Greek god Hercules who was fatefully conceived amid a blackmailing affair with princess Celtine. Kia…",
+    "url": "https://www.slashgear.com/2021-kia-seltos-review-small-crossover-has-big-ambitions-21629960/",
+    "urlToImage": "https://cdn.slashgear.com/wp-content/uploads/2020/07/P4081322.jpg",
+    "publishedAt": "2020-07-21T20:37:17Z",
+    "content": "The apple doesn’t fall far from the tree, and in this case, I’m referring to the 2021 Kia Seltos. You may know that ‘Seltos’ derives from ‘Celtos,’ the son of Greek god Hercules who was fatefully con… [+5351 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "seattlepi.com"
+    },
+    "author": "By DON THOMPSON, Associated Press",
+    "title": "21 state attorneys general sue over new Trump water rule",
+    "description": "SACRAMENTO, Calif. (AP) - Attorneys general in 20 states and the District of Columbia sued the Trump administration on Tuesday, alleging that new federal rules undermine their ability to protect rivers, lakes and streams within their borders. \n They say that …",
+    "url": "https://www.seattlepi.com/news/article/21-state-attorneys-general-sue-over-new-Trump-15423953.php",
+    "urlToImage": "https://s.hdnux.com/photos/01/13/13/67/19709432/7/rawImage.jpg",
+    "publishedAt": "2020-07-21T20:37:07Z",
+    "content": "<ul><li>FILE - In this April 10, 2019, file photo, President Donald Trump holds up an executive order on energy and infrastructure after signing it at the International Union of Operating Engineers I… [+5485 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Okayplayer"
+    },
+    "author": "Torry Threadcraft",
+    "title": "For the First Time Ever, Digital Streaming Surpasses Analog Music Consumption",
+    "description": "An Edison Research study showed the COVID-19 pandemic has caused a rise in digital streaming. Digital streaming has significantly changed the music industry as a whole. The advent of companies like Spotify, Apple Music, and TIDAL have made an irreversible imp…",
+    "url": "https://www.okayplayer.com/culture/digital-streaming-passes-analog.html",
+    "urlToImage": "https://www.okayplayer.com/wp-content/uploads/2020/07/zarak-khan-dV5fxEZaS1A-unsplash-scaled-e1595363765271.jpg",
+    "publishedAt": "2020-07-21T20:37:02Z",
+    "content": "An Edison Research study showed the COVID-19 pandemic has caused a rise in digital streaming.\r\nDigital streaming has significantly changed the music industry as a whole. The advent of companies like … [+1432 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Noaa.gov"
+    },
+    "author": "nhcwebmaster@noaa.gov (NHC Webmaster)",
+    "title": "Tropical Depression Seven Forecast Discussion Number 1",
+    "description": "Issued at 500 PM AST Tue Jul 21 2020 \n\n000\nWTNT42 KNHC 212036\nTCDAT2\n \nTropical Depression Seven Discussion Number 1\nNWS National Hurricane Center Miami FL AL072020\n500 PM AST Tue Jul 21 2020\n\nSatellite imagery and scatterometer data indicate that the low \npr…",
+    "url": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/212036.shtml",
+    "urlToImage": null,
+    "publishedAt": "2020-07-21T20:36:48Z",
+    "content": null
+  }, {
+    "source": {
+      "id": null,
+      "name": "bdnews24.com"
+    },
+    "author": null,
+    "title": "US wants to build coalition to counter China's 'disgraceful' menace, Pompeo says",
+    "description": "US Secretary of State Mike Pompeo said on Tuesday the United States wants to build a global coalition to counter China as he accused Beijing of exploiting the coronavirus pandemic to further its own interests.",
+    "url": "https://bdnews24.com/world/2020/07/22/us-wants-to-build-coalition-to-counter-china-s-disgraceful-menace-pompeo-says",
+    "urlToImage": "https://d30fl32nd2baj9.cloudfront.net/media/2020/07/22/usa-britain-pompeo-210720-05.jpg/ALTERNATES/w640/usa-britain-pompeo-210720-05.jpg",
+    "publishedAt": "2020-07-21T20:36:32Z",
+    "content": "US President Donald Trump identifies China as the United States main rival, and has accused President Xi Jinping of taking advantage over trade and not telling the truth over the novel coronavirus ou… [+2127 chars]"
+  }, {
+    "source": {
+      "id": null,
+      "name": "Dark Horizons"
+    },
+    "author": "Garth Franklin",
+    "title": "Netflix Sets “Lucifer” S5, “Cobra Kai” S1-2 Dates",
+    "description": "Netflix has released the poster and announced an August 21st premiere date for the first part of the fifth season of “Lucifer”. The series has been renewed for a sixth season which hasn’t yet begun production. The fifth season’s second part is expected to arr…",
+    "url": "https://www.darkhorizons.com/netflix-sets-lucifer-s5-cobra-kai-s1-2-dates/",
+    "urlToImage": "https://cdn.darkhorizons.com/wp-content/uploads/2020/07/netflix-sets-lucifer-s5-cobra-kai-s1-2-dates.jpg",
+    "publishedAt": "2020-07-21T20:36:31Z",
+    "content": "Netflix has released the poster and announced an August 21st premiere date for the first part of the fifth season of “Lucifer”.\r\nThe series has been renewed for a sixth season which hasn’t yet begun … [+699 chars]"
+  }]
+}

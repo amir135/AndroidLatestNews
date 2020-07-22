@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tab_navigation"
+    app:startDestination="@id/newsTab">
+
+    <fragment
+        android:id="@+id/sourcesTab"
+        android:name="com.news.newsapi.fragment.Sources.SourcesFragment"
+        android:label="Sources">
+    </fragment>
+    <fragment
+        android:id="@+id/newsTab"
+        android:name="com.news.newsapi.fragment.news.NewsFragment"
+        android:label="Latest News" >
+        <action
+            android:id="@+id/action_newsTab_to_newsViewFragment"
+            app:destination="@id/newsViewFragment" />
+        <action
+            android:id="@+id/action_newsTab_to_sourcesTab"
+            app:destination="@id/sourcesTab" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsViewFragment"
+        android:name="com.news.newsapi.fragment.newsviewer.NewsViewerFragment"
+        android:label="News View" />
+</navigation>
